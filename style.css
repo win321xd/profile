@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+body {
+  margin-top: 50px;
+  background-color: rgba(200, 255, 112, 0.555);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.container {
+  padding-left: 5%;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  font-weight: 300;
+  text-align: center;
+}
+
+p {
+  font-style: oblique;
+  text-align: center;
+}
+
+.card0 {
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  background-color: rgba(69, 10, 10, 0.638);
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  margin-left: 36.5%;
+  width: 400px;
+  box-shadow: 0 2px 4px;
+}
+
+.card1 {
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  margin-left: 36.50%;
+  width: 400px;
+}
+
+.stack {
+  margin-left: 25%;
+}
+
+.intro{
+  text-align: justify;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 50%;
+}
+
+ul{
+  list-style-type: none;
+}
